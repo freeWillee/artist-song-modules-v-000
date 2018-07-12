@@ -1,5 +1,6 @@
 module Memorable
   @@songs = []
+  
   def count
     self.all.count
   end
