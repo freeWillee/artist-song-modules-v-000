@@ -4,7 +4,7 @@ module Memorable
   end
 
   def reset_all
-    @@songs.clear
+    Class.songs.clear
   end
 
 end
