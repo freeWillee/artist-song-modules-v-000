@@ -1,4 +1,4 @@
-module Memorables
+module Memorable
 
   def count
     self.all.count
